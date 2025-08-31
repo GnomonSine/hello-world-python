@@ -4,9 +4,7 @@
 
 # @Description: The use of for loops is demonstrated.
 
-
 fruits = ["apples", "peaches", "pears", "oranges"]
-
 
 for fruit in fruits:
     print(fruit)

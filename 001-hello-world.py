@@ -4,5 +4,4 @@
 
 # @Description: This script prints out one line.
 
-
 print("Hello World!")

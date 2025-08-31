@@ -4,7 +4,6 @@
 
 # @Description: All the variable types are tested.
 
-
 one_int = 1
 two_float = 0.39
 three_bool = True

@@ -4,7 +4,6 @@
 
 # @Description: The use of conditions in loops.
 
-
 first_name = "Farhad"
 last_name = "Yusifov"
 age = 32

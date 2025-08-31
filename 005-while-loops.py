@@ -4,9 +4,7 @@
 
 # @Description: Use of while loops.
 
-
 x = 5
-
 
 print("COUNTDOWN!")
 while x >= 1:

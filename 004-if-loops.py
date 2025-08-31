@@ -4,9 +4,7 @@
 
 # @Description: Use of if conditionals.
 
-
 x = 1
-
 
 if x == 0:
     print("ZERO")

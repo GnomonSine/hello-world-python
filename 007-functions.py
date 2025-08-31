@@ -2,8 +2,7 @@
 # @Email: farhadyusifov@protonmail.com
 # @Date: 2025-08-28
 
-# @Description: General use of functions.
-
+# @Description: General use of functions. Alwaya use return if you can.
 
 def happy_birthday_song(age):
     x = 1
