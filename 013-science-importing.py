@@ -7,6 +7,7 @@
 import numpy
 import matplotlib
 import pandas
-import tkinter as tk
+import scipy
 
 
+print("All packages imported successfully.")
